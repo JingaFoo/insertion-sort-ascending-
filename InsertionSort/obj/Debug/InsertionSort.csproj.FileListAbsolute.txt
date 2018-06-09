@@ -1,0 +1,7 @@
+D:\Projects\C# Learn\SortingAlgorithms\InsertionSort\InsertionSort\bin\Debug\InsertionSort.exe.config
+D:\Projects\C# Learn\SortingAlgorithms\InsertionSort\InsertionSort\bin\Debug\InsertionSort.exe
+D:\Projects\C# Learn\SortingAlgorithms\InsertionSort\InsertionSort\bin\Debug\InsertionSort.pdb
+D:\Projects\C# Learn\SortingAlgorithms\InsertionSort\InsertionSort\obj\Debug\InsertionSort.csprojAssemblyReference.cache
+D:\Projects\C# Learn\SortingAlgorithms\InsertionSort\InsertionSort\obj\Debug\InsertionSort.csproj.CoreCompileInputs.cache
+D:\Projects\C# Learn\SortingAlgorithms\InsertionSort\InsertionSort\obj\Debug\InsertionSort.exe
+D:\Projects\C# Learn\SortingAlgorithms\InsertionSort\InsertionSort\obj\Debug\InsertionSort.pdb
